@@ -1,7 +1,6 @@
-### 
-Hey There! I'm Mateo Lorenzati
+### Hey There! I'm Mateo Lorenzati
 
-About me
+### About me
 I'm a 20 years old student currently studying at the Universidad Tecnológica Nacional (UTN)\
 As a Fullstack developer, I have a solid grasp of HTML, and I'm proficient in handling and creating APIs\
 My backend expertise includes NodeJS, and I also use Python for backend development with Flask, as well as task automation\
