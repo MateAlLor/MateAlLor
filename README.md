@@ -2,11 +2,11 @@
 Hey There! I'm Mateo Lorenzati
 
 About me
-I'm a 20 years old student currently studying at the Universidad Tecnológica Nacional (UTN)
-As a Fullstack developer, I have a solid grasp of HTML, and I'm proficient in handling and creating APIs
-My backend expertise includes NodeJS, and I also use Python for backend development with Flask, as well as task automation
-I'm skilled in web scraping with Selenium, mobile device automation with ADB, and image recognition with CV2
-I also have experience working with SQL databases
+I'm a 20 years old student currently studying at the Universidad Tecnológica Nacional (UTN)\
+As a Fullstack developer, I have a solid grasp of HTML, and I'm proficient in handling and creating APIs\
+My backend expertise includes NodeJS, and I also use Python for backend development with Flask, as well as task automation\
+I'm skilled in web scraping with Selenium, mobile device automation with ADB, and image recognition with CV2\
+I also have experience working with SQL databases\
 
 
 
