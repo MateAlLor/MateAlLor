@@ -1,11 +1,9 @@
 ### Hey There! I'm Mateo Lorenzati
 
 ### About me
-I'm a 20 years old student currently studying at the Universidad Tecnológica Nacional (UTN)\
-As a Fullstack developer, I have a solid grasp of HTML, and I'm proficient in handling and creating APIs\
-My backend expertise includes NodeJS, and I also use Python for backend development with Flask, as well as task automation\
-I'm skilled in web scraping with Selenium, mobile device automation with ADB, and image recognition with OpenCV\
-I also have experience working with SQL databases\
+📚 I'm a 20 years old student currently studying at the Universidad Tecnológica Nacional (UTN)\
+🔭 I’m currently studying System Enge at the Universidad Tecnológica Nacional (UTN).\
+👯 I’m looking to collaborate on innovative web development projects, especially those involving API creation and backend development.
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
@@ -24,7 +22,12 @@ I also have experience working with SQL databases\
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Pycharm](https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm)&nbsp;
+![IntelliJ Idea](https://img.shields.io/badge/IntelliJ%20Idea-000000?style=for-the-badge&logo=intellijidea)
+&nbsp;
+
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
