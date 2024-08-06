@@ -2,7 +2,7 @@
 
 ### About me
 📚 I'm a 20 years old student currently studying at the Universidad Tecnológica Nacional (UTN)\
-🔭 I’m currently studying System Enge at the Universidad Tecnológica Nacional (UTN).\
+🔭 I’m currently studying Systems engineering at the Universidad Tecnológica Nacional (UTN).\
 <!-- 👯 I’m looking to collaborate on innovative web development projects, especially those involving API creation and backend development. -->
 
 
