@@ -1,7 +1,7 @@
 ### Hey There! I'm Mateo Lorenzati
 
 ### About me
-📚 I'm a 20 years old student\
+📚 I'm a 20 years old programmer\
 🔭 I’m currently studying Systems engineering at the Universidad Tecnológica Nacional (UTN).\
 👯 I’m looking to collaborate on innovative web development projects.\
 🦾 I firmly believe that nothing is impossible in the world of technology.
