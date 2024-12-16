@@ -40,6 +40,7 @@
 
 ### 🛠 &nbsp;Other
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)&nbsp;
+![Pygame]([https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white](https://img.shields.io/badge/Pygame-00b815?style=for-the-badge&logo=wiki.gg&logoColor=white))&nbsp;
 ![Substance Designer](https://img.shields.io/badge/Substance%20Painter-red?style=for-the-badge&logo=adobe)&nbsp;
 ![Substance Painter](https://img.shields.io/badge/Substance%20Designer-red?style=for-the-badge&logo=adobe)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)&nbsp;
