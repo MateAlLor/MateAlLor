@@ -21,7 +21,7 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQL%20Alchemy-CE2103.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%61DAFB)&nbsp;
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)&nbsp;
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)&nbsp;
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)&nbsp;
 ![ADB](https://img.shields.io/badge/ADB-5c805d?style=for-the-badge&logo=android)&nbsp;
 
