@@ -6,9 +6,18 @@
 👯 I’m looking to collaborate on innovative web development projects.\
 🦾 I firmly believe that nothing is impossible in the world of technology.
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4171507" style='border:none;'></iframe>
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/mateallor.png)
 
 ### 🛠 &nbsp;Tech Stack
+![Kali Linux](https://img.shields.io/badge/kali%20linux-474747?style=for-the-badge&logo=kalilinux&logoColor=#557C94)&nbsp;
+![OWASP Top 10](https://img.shields.io/badge/owasp%20top%2010-%23323330?style=for-the-badge&logo=owasp&logoColor=#FFFFFF)&nbsp;
+
+![Shells](https://img.shields.io/badge/shells-000000?style=for-the-badge&logo=zsh&logoColor=00D402)&nbsp;
+![Burpsuite](https://img.shields.io/badge/burpsuite-999999?style=for-the-badge&logo=burpsuite&logoColor=#FF6633)&nbsp;
+![Wireshark](https://img.shields.io/badge/wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=FFFFFF)&nbsp;
+![Metasploit](https://img.shields.io/badge/metasploit-%23323330?style=for-the-badge&logo=metasploit&logoColor=#2596CD)&nbsp;
+
+![Postman](https://img.shields.io/badge/Postman-%23323330?style=for-the-badge&logo=postman&logoColor=FF6C37)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
