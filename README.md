@@ -6,6 +6,7 @@
 👯 I’m looking to collaborate on innovative web development projects.\
 🦾 I firmly believe that nothing is impossible in the world of technology.
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4171507" style='border:none;'></iframe>
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
